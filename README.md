@@ -88,15 +88,7 @@ Developed a custom **Bettercap HSTS Hijacking Module** within a controlled lab e
 - MLOps
 - Model Deployment
 
----
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 
 ---
@@ -105,5 +97,5 @@ Developed a custom **Bettercap HSTS Hijacking Module** within a controlled lab e
 
 I'm always interested in collaborating on **AI, Machine Learning, Data Analytics, Open Source, and Full-Stack Development** projects.
 
-⭐ Feel free to explore my repositories and connect with me!
+ Feel free to explore my repositories and connect with me!
 ````
