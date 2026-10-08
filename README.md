@@ -1,7 +1,7 @@
 
 #  Hi, I'm Onyebuchi Uremeh
 
-###  AI & Machine Learning Developer | Full-Stack Developer | Data Analyst
+###  Data Scientist | Data Analyst
 
 I'm a **Computer Science student** passionate about building intelligent software that solves real-world problems. My work focuses on **Artificial Intelligence, Machine Learning, Large Language Models (LLMs), AI Automation, and Data Analytics**, combining modern AI technologies with scalable backend systems.
 
